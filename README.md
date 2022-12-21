@@ -1,2 +1,2 @@
 # csources_v2
-CSources compiled from Nim version 2. Based on https://github.com/nim-lang/Nim/commit/f01ffbf6f1f66f0b3e525589d473cad2cbd951f1
+CSources compiled from Nim version 2. Based on https://github.com/nim-lang/Nim/commit/8a77798dac66a55b42005db8837508a5af0547cf

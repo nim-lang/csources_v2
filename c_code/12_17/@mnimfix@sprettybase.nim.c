@@ -490,7 +490,7 @@ struct tySequence__sM4lkSb7zS6F7OVMvW9cffQ_Content { NI cap; NimStringV2 data[SE
 #endif
 
       N_LIB_PRIVATE N_NIMCALL(void, replaceDeprecated__nimfixZprettybase_8)(tyObject_ConfigRefcolonObjectType___2BjaRtGfBjUbX51p9a4g9a9cg* conf__m1Tw9bLDr11LOSuhzrSTqcQ, tyObject_TLineInfo__7ZAGqjaN6WqWPlHP9cRagRg info__d5eAEE8aS9bigZYfmC8PrCQ, tyObject_TIdent__L29bfCasnfXpB7u88iPkwMA* oldSym__2OpsS9c8dyuNFglKO4Mo1Wg, tyObject_TIdent__L29bfCasnfXpB7u88iPkwMA* newSym__Xw19a9cuElHx4A9cuIHclfc9bg);
-N_LIB_PRIVATE N_NIMCALL(NimStringV2, sourceLine__msgs_1155)(tyObject_ConfigRefcolonObjectType___2BjaRtGfBjUbX51p9a4g9a9cg* conf__iK9bTN9aVh8UgFVk9cczbtRWw, tyObject_TLineInfo__7ZAGqjaN6WqWPlHP9cRagRg i__zBv4jLsT6jyzThbcgw2Gug);
+N_LIB_PRIVATE N_NIMCALL(NimStringV2, sourceLine__msgs_1165)(tyObject_ConfigRefcolonObjectType___2BjaRtGfBjUbX51p9a4g9a9cg* conf__iK9bTN9aVh8UgFVk9cczbtRWw, tyObject_TLineInfo__7ZAGqjaN6WqWPlHP9cRagRg i__zBv4jLsT6jyzThbcgw2Gug);
 N_LIB_PRIVATE N_NIMCALL(void, eqdestroy___stdZassertions_13)(NimStringV2* dest__C2JKGPCNdWKCPrsQvNywTQ);
 N_LIB_PRIVATE N_NIMCALL(NI, identLen__linter_13)(NimStringV2 line__8IsyPxBZWoh55Tlgvqp9b9aw, NI start__kNhdIkLuEbq9b7A9a5pMVk9cQ);
 N_LIB_PRIVATE N_NIMCALL(NI, nsuCmpIgnoreStyle)(NimStringV2 a__yaahSITnr88EoUOFv5Y1cg, NimStringV2 b__3ujH36Bubscffvz2Z2sIng);
@@ -600,7 +600,7 @@ NIM_BOOL* nimErr_;
 {nimErr_ = nimErrorFlag();
 	line.len = 0; line.p = NIM_NIL;
 	colontmpD_.len = 0; colontmpD_.p = NIM_NIL;
-	line = sourceLine__msgs_1155(conf__m1Tw9bLDr11LOSuhzrSTqcQ, info__d5eAEE8aS9bigZYfmC8PrCQ);
+	line = sourceLine__msgs_1165(conf__m1Tw9bLDr11LOSuhzrSTqcQ, info__d5eAEE8aS9bigZYfmC8PrCQ);
 	if (NIM_UNLIKELY(*nimErr_)) goto LA1_;
 	first = ((((NI) (info__d5eAEE8aS9bigZYfmC8PrCQ.col)) <= line.len) ? ((NI) (info__d5eAEE8aS9bigZYfmC8PrCQ.col)) : line.len);
 	{

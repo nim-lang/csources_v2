@@ -886,7 +886,7 @@ N_LIB_PRIVATE N_NIMCALL(void, eqdestroy___stdZassertions_55)(tySequence__uB9b75O
 N_LIB_PRIVATE N_NIMCALL(void, eqtrace___packagesZdocutilsZrst_769)(tyObject_EParseError__HwPSk9c189a4y5ESAfem5Oqg* dest__TU19cdKnFgcASrw21U8XesA_3, void* env__rkWUZR8c3Kzf6mvj3G9aO9ag_3);
 N_LIB_PRIVATE N_NIMCALL(void, eqtrace___stdZassertions_64)(tySequence__uB9b75OUPRENsBAu4AnoePA* dest__MtFFOU2wNRj2y9bA8lUbcdQ, void* env__kESFTih59bdOEL17KGJBDtg);
 N_LIB_PRIVATE N_NIMCALL(void, raiseExceptionEx)(Exception* e__9ajCQKqHfiAQicU4Xo4XCfQ, NCSTRING ename__dYYaKlNlIXrIQDE0zrUqCg, NCSTRING procname__0KbbVdUBSy9cVZFkcqkrAbA, NCSTRING filename__OtHzFRym9aG7oNwlVo9bTRVA, NI line__eII5zX9cu2R26e0hzCzdeKQ);
-static N_INLINE(void, writeLine__msgs_459)(FILE* f__KUEFoPum7MSbbeHUznCh4A, NimStringV2* x__dr3c8sHmSTrDhp9boqKGG7g, NI x__dr3c8sHmSTrDhp9boqKGG7gLen_0);
+static N_INLINE(void, writeLine__msgs_469)(FILE* f__KUEFoPum7MSbbeHUznCh4A, NimStringV2* x__dr3c8sHmSTrDhp9boqKGG7g, NI x__dr3c8sHmSTrDhp9boqKGG7gLen_0);
 N_LIB_PRIVATE N_NIMCALL(void, write__stdZsyncio_230)(FILE* f__Z7W8xxfySxjfgI9aiD9britg, NimStringV2 s__d9cWhBMTIzI9aC3wN9cFAWa6Q);
 N_LIB_PRIVATE N_NIMCALL(void, eqcopy___pureZunicode_3668)(tyProc__oFHfEKFsiYTMAy9a42cSiKw* dest__ab6TlUcjCwv7o9buUCxl8Rw, tyProc__oFHfEKFsiYTMAy9a42cSiKw src__yFKrHh0TQbg2y39bmWR7hhA, NIM_BOOL cyclic__HkgZD2IUVYG9art9aEGa5zOQ);
 N_LIB_PRIVATE N_NIMCALL(NimStringV2, defaultFindFile__packagesZdocutilsZrst_797)(NimStringV2 filename__JlOq6okfy3P5jX8DxrvehQ);
@@ -3454,7 +3454,7 @@ N_LIB_PRIVATE N_NIMCALL(void, eqtrace___packagesZdocutilsZrst_769)(tyObject_EPar
 	eqtrace___stdZassertions_64((&(*dest__TU19cdKnFgcASrw21U8XesA_3).Sup.Sup.Sup.trace), env__rkWUZR8c3Kzf6mvj3G9aO9ag_3);
 	nimTraceRefDyn(&(*dest__TU19cdKnFgcASrw21U8XesA_3).Sup.Sup.Sup.up, env__rkWUZR8c3Kzf6mvj3G9aO9ag_3);
 }
-static N_INLINE(void, writeLine__msgs_459)(FILE* f__KUEFoPum7MSbbeHUznCh4A, NimStringV2* x__dr3c8sHmSTrDhp9boqKGG7g, NI x__dr3c8sHmSTrDhp9boqKGG7gLen_0) {
+static N_INLINE(void, writeLine__msgs_469)(FILE* f__KUEFoPum7MSbbeHUznCh4A, NimStringV2* x__dr3c8sHmSTrDhp9boqKGG7g, NI x__dr3c8sHmSTrDhp9boqKGG7gLen_0) {
 NIM_BOOL* nimErr_;
 {nimErr_ = nimErrorFlag();
 	{
@@ -3545,7 +3545,7 @@ goto LA1_;
 	{
 		tyArray__nHXaesL0DJZHyVS07ARPRA T17_;
 		T17_[0] = message;
-		writeLine__msgs_459(stdout, T17_, 1);
+		writeLine__msgs_469(stdout, T17_, 1);
 		if (NIM_UNLIKELY(*nimErr_)) goto LA1_;
 	}
 	LA11_: ;

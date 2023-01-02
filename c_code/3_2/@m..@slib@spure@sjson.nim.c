@@ -1994,7 +1994,7 @@ goto LA11_;
 	(*dst__OfnxebOeBG0etzm9cxDqoXw_2) = (*jsonNode__X6OSoERY77Ue5vDuoEQ9bNw_2)._kind_4.bval;
 	}BeforeRet_: ;
 }
-N_LIB_PRIVATE N_NIMCALL(NIM_BOOL, to__extccomp_2506)(tyObject_JsonNodeObj__df9bshXB7C9cTiWPIOtX3j1Q* node__6Q9a7ZYUZLxQhc6E6caGQbA_2) {
+N_LIB_PRIVATE N_NIMCALL(NIM_BOOL, to__extccomp_2509)(tyObject_JsonNodeObj__df9bshXB7C9cTiWPIOtX3j1Q* node__6Q9a7ZYUZLxQhc6E6caGQbA_2) {
 	NIM_BOOL result;
 	NimStringV2 jsonPath;
 NIM_BOOL* nimErr_;

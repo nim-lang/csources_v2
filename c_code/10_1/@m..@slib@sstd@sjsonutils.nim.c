@@ -251,37 +251,37 @@ static N_INLINE(tyObject_JsonNodeObj__df9bshXB7C9cTiWPIOtX3j1Q*, X5BX5D___pureZj
 N_LIB_PRIVATE N_NIMCALL(void, eqcopy___pureZjson_274)(tyObject_JsonNodeObj__df9bshXB7C9cTiWPIOtX3j1Q** dest__xkvhuN3pQW3SXQOFTgpHaA, tyObject_JsonNodeObj__df9bshXB7C9cTiWPIOtX3j1Q* src__APqiw45mCtjjoYB19cAtYhg);
 N_LIB_PRIVATE N_NIMCALL(tyObject_JsonNodeObj__df9bshXB7C9cTiWPIOtX3j1Q**, X5BX5D___pureZjson_3005)(tyObject_OrderedTable__ZZvSdVkA2s2sIyifu4cpkg* t__ysGerQYt6vimNHSLOIilsQ, NimStringV2 key__gOakLmHIROkF63rTaGSHoA);
 N_LIB_PRIVATE N_NIMCALL(void, eqdestroy___pureZjson_271)(tyObject_JsonNodeObj__df9bshXB7C9cTiWPIOtX3j1Q** dest__9c9a0iog9aJtQkw9acJyUaQD8g_2);
-N_LIB_PRIVATE N_NIMCALL(NimStringV2, percent___extccomp_2153)(NimStringV2* args__D4mz9byaz6zlrAzl6k76dDw, NI args__D4mz9byaz6zlrAzl6k76dDwLen_0);
+N_LIB_PRIVATE N_NIMCALL(NimStringV2, percent___extccomp_2156)(NimStringV2* args__D4mz9byaz6zlrAzl6k76dDw, NI args__D4mz9byaz6zlrAzl6k76dDwLen_0);
 N_LIB_PRIVATE N_NIMCALL(NimStringV2, pretty__pureZjson_4843)(tyObject_JsonNodeObj__df9bshXB7C9cTiWPIOtX3j1Q* node__IbXhkf2otU3eJn1F9a0WA6Q, NI indent__DSeEKZEZldW5aqJimvzcYQ);
-N_LIB_PRIVATE N_NIMCALL(void, fromJson__extccomp_2198)(tySequence__4eQHGndY6XBYpFOH09apV8Q* a__YgVnlAQCl5hJRf3h9aGL3zw_2, tyObject_JsonNodeObj__df9bshXB7C9cTiWPIOtX3j1Q* b__OMI3BJ5mttOjg1u9aslW9bQQ_2, tyObject_Joptions__LkVLf5IMKBOgl3HJApAzgQ opt__9adGrRSNkSn9cSnT7sTC6dFg_2);
-N_LIB_PRIVATE N_NIMCALL(void, setLen__extccomp_1694)(tySequence__4eQHGndY6XBYpFOH09apV8Q* s__v0I5mv34MkKlp4viOanXng, NI newlen__c9bFmd8RdbqPwU34fS2Dljg);
+N_LIB_PRIVATE N_NIMCALL(void, fromJson__extccomp_2201)(tySequence__4eQHGndY6XBYpFOH09apV8Q* a__YgVnlAQCl5hJRf3h9aGL3zw_2, tyObject_JsonNodeObj__df9bshXB7C9cTiWPIOtX3j1Q* b__OMI3BJ5mttOjg1u9aslW9bQQ_2, tyObject_Joptions__LkVLf5IMKBOgl3HJApAzgQ opt__9adGrRSNkSn9cSnT7sTC6dFg_2);
+N_LIB_PRIVATE N_NIMCALL(void, setLen__extccomp_1697)(tySequence__4eQHGndY6XBYpFOH09apV8Q* s__v0I5mv34MkKlp4viOanXng, NI newlen__c9bFmd8RdbqPwU34fS2Dljg);
 N_LIB_PRIVATE N_NIMCALL(NI, len__pureZjson_3367)(tyObject_JsonNodeObj__df9bshXB7C9cTiWPIOtX3j1Q* n__AO9aLyJKcnVwHhmi2cqBh9cQ);
 N_LIB_PRIVATE N_NIMCALL(tySequence__oLpBKXzW3hF9aCVMo5EymfQ, getElems__pureZjson_524)(tyObject_JsonNodeObj__df9bshXB7C9cTiWPIOtX3j1Q* n__CKK9cVeXWiBSKNmXxilxgLg, tySequence__oLpBKXzW3hF9aCVMo5EymfQ default__OP1cfzWoiJ4c0SEq5PJNkg);
 N_LIB_PRIVATE N_NIMCALL(void*, newSeqPayload)(NI cap__czaPp7jdy4nsW0eyocuRpw, NI elemSize__9bX06UWh0hPmW8xjLCRy2Hg, NI elemAlign__GBEui9cCQzikG72eLR8p8bA);
-N_LIB_PRIVATE N_NIMCALL(void, fromJson__extccomp_2258)(tyTuple__UV3llMMYFckfui8YMBuUZA* a__YgVnlAQCl5hJRf3h9aGL3zw_3, tyObject_JsonNodeObj__df9bshXB7C9cTiWPIOtX3j1Q* b__OMI3BJ5mttOjg1u9aslW9bQQ_3, tyObject_Joptions__LkVLf5IMKBOgl3HJApAzgQ opt__9adGrRSNkSn9cSnT7sTC6dFg_3);
+N_LIB_PRIVATE N_NIMCALL(void, fromJson__extccomp_2261)(tyTuple__UV3llMMYFckfui8YMBuUZA* a__YgVnlAQCl5hJRf3h9aGL3zw_3, tyObject_JsonNodeObj__df9bshXB7C9cTiWPIOtX3j1Q* b__OMI3BJ5mttOjg1u9aslW9bQQ_3, tyObject_Joptions__LkVLf5IMKBOgl3HJApAzgQ opt__9adGrRSNkSn9cSnT7sTC6dFg_3);
 N_NIMCALL(NimStringV2, rawNewString)(NI cap__aiFqe9bSUp1HPQPsLukio0A);
 N_LIB_PRIVATE N_NIMCALL(void, prepareAdd)(NimStringV2* s__qL2AkrAohOvo9bZZC15G6TA, NI addlen__uGPPC8Yor9a9avOoki7IG3AQ);
 N_LIB_PRIVATE N_NIMCALL(void, formatValue__pureZterminal_210)(NimStringV2* result__cf3mpYwrFFZaaa4W7Luvag, NI value__36SFRD9a2n7PnEJokI6BTQw, NimStringV2 specifier__rKQhlkpwEmo7gb69cTyH5SA);
 N_LIB_PRIVATE N_NIMCALL(void, formatValue__pureZstrformat_170)(NimStringV2* result__unZzIdf6bInLmJ6P9aO1J4Q, NimStringV2 value__1wAMq2Xzi9bow7GHe3S4WKA, NimStringV2 specifier__puOkRMs0FuqvfViA0tgZnw);
 static N_INLINE(tyObject_JsonNodeObj__df9bshXB7C9cTiWPIOtX3j1Q*, X5BX5D___pureZjson_3496)(tyObject_JsonNodeObj__df9bshXB7C9cTiWPIOtX3j1Q* node__gSUzfWM9brgbjXTlT4aCOqw_2, NI index__19bvU9caYazJiqfTo9awocjLQ);
 N_LIB_PRIVATE N_NIMCALL(void, eqdestroy___pureZjson_217)(tySequence__oLpBKXzW3hF9aCVMo5EymfQ* dest__wkYD3k53TmgP9cGnJ0JiNLw);
-N_LIB_PRIVATE N_NIMCALL(void, fromJson__extccomp_2351)(tySequence__sM4lkSb7zS6F7OVMvW9cffQ* a__YgVnlAQCl5hJRf3h9aGL3zw_4, tyObject_JsonNodeObj__df9bshXB7C9cTiWPIOtX3j1Q* b__OMI3BJ5mttOjg1u9aslW9bQQ_4, tyObject_Joptions__LkVLf5IMKBOgl3HJApAzgQ opt__9adGrRSNkSn9cSnT7sTC6dFg_4);
+N_LIB_PRIVATE N_NIMCALL(void, fromJson__extccomp_2354)(tySequence__sM4lkSb7zS6F7OVMvW9cffQ* a__YgVnlAQCl5hJRf3h9aGL3zw_4, tyObject_JsonNodeObj__df9bshXB7C9cTiWPIOtX3j1Q* b__OMI3BJ5mttOjg1u9aslW9bQQ_4, tyObject_Joptions__LkVLf5IMKBOgl3HJApAzgQ opt__9adGrRSNkSn9cSnT7sTC6dFg_4);
 N_LIB_PRIVATE N_NIMCALL(void, setLen__system_3426)(tySequence__sM4lkSb7zS6F7OVMvW9cffQ* s__v0I5mv34MkKlp4viOanXng_6, NI newlen__c9bFmd8RdbqPwU34fS2Dljg_6);
-N_LIB_PRIVATE N_NIMCALL(void, fromJson__extccomp_2483)(NIM_BOOL* a__YgVnlAQCl5hJRf3h9aGL3zw_5, tyObject_JsonNodeObj__df9bshXB7C9cTiWPIOtX3j1Q* b__OMI3BJ5mttOjg1u9aslW9bQQ_5, tyObject_Joptions__LkVLf5IMKBOgl3HJApAzgQ opt__9adGrRSNkSn9cSnT7sTC6dFg_5);
-N_LIB_PRIVATE N_NIMCALL(NIM_BOOL, to__extccomp_2494)(tyObject_JsonNodeObj__df9bshXB7C9cTiWPIOtX3j1Q* node__6Q9a7ZYUZLxQhc6E6caGQbA_2);
-N_LIB_PRIVATE N_NIMCALL(NimStringV2, percent___extccomp_2671)(NimStringV2* args__D4mz9byaz6zlrAzl6k76dDw_2, NI args__D4mz9byaz6zlrAzl6k76dDw_2Len_0);
+N_LIB_PRIVATE N_NIMCALL(void, fromJson__extccomp_2486)(NIM_BOOL* a__YgVnlAQCl5hJRf3h9aGL3zw_5, tyObject_JsonNodeObj__df9bshXB7C9cTiWPIOtX3j1Q* b__OMI3BJ5mttOjg1u9aslW9bQQ_5, tyObject_Joptions__LkVLf5IMKBOgl3HJApAzgQ opt__9adGrRSNkSn9cSnT7sTC6dFg_5);
+N_LIB_PRIVATE N_NIMCALL(NIM_BOOL, to__extccomp_2497)(tyObject_JsonNodeObj__df9bshXB7C9cTiWPIOtX3j1Q* node__6Q9a7ZYUZLxQhc6E6caGQbA_2);
+N_LIB_PRIVATE N_NIMCALL(NimStringV2, percent___extccomp_2674)(NimStringV2* args__D4mz9byaz6zlrAzl6k76dDw_2, NI args__D4mz9byaz6zlrAzl6k76dDw_2Len_0);
 N_LIB_PRIVATE N_NIMCALL(NimStringV2, dollar___systemZdollars_3)(NI x__KsYCTjO9co8rDpst8JJ2TVg);
 N_LIB_PRIVATE N_NIMCALL(tyObject_JsonNodeObj__df9bshXB7C9cTiWPIOtX3j1Q*, newJObject__pureZjson_388)(void);
 static N_INLINE(void, X5BX5Deq___pureZjson_2270)(tyObject_JsonNodeObj__df9bshXB7C9cTiWPIOtX3j1Q* obj__2IkmNLoN8ZyRboKL8f6l7w, NimStringV2 key__4EidOdt4AvbAg3BlyhoIGA, tyObject_JsonNodeObj__df9bshXB7C9cTiWPIOtX3j1Q* val__HZUv09c7lFt79cJtwXQ8SLHg);
 N_LIB_PRIVATE N_NIMCALL(void, X5BX5Deq___pureZjson_620)(tyObject_OrderedTable__ZZvSdVkA2s2sIyifu4cpkg* t__17N5BjU4K6Zd3IIMweXklw, NimStringV2 key__St9cv3TuRBEZTSw9atiKVPyQ, tyObject_JsonNodeObj__df9bshXB7C9cTiWPIOtX3j1Q* val__Z9bfnGl3Yd6fLRsja4ZUvDQ);
 N_LIB_PRIVATE N_NIMCALL(tyObject_JsonNodeObj__df9bshXB7C9cTiWPIOtX3j1Q*, toJson__stdZjsonutils_586)(NimStringV2 a__9cen7Un9b9b1PG3r9cT4jexiGA, tyObject_ToJsonOptions__T9bCB8O1ZaL5BIvSkjYqMnQ opt__09bSJo2Bi0L2pHcinEcIUyw);
 N_LIB_PRIVATE N_NIMCALL(tyObject_JsonNodeObj__df9bshXB7C9cTiWPIOtX3j1Q*, percent___pureZjson_2130)(NimStringV2 s__9cuTxCm89b3ctTWxWk9cDcCvQ);
-N_LIB_PRIVATE N_NIMCALL(tyObject_JsonNodeObj__df9bshXB7C9cTiWPIOtX3j1Q*, toJson__extccomp_1912)(tySequence__4eQHGndY6XBYpFOH09apV8Q a__9cen7Un9b9b1PG3r9cT4jexiGA_2, tyObject_ToJsonOptions__T9bCB8O1ZaL5BIvSkjYqMnQ opt__09bSJo2Bi0L2pHcinEcIUyw_2);
+N_LIB_PRIVATE N_NIMCALL(tyObject_JsonNodeObj__df9bshXB7C9cTiWPIOtX3j1Q*, toJson__extccomp_1915)(tySequence__4eQHGndY6XBYpFOH09apV8Q a__9cen7Un9b9b1PG3r9cT4jexiGA_2, tyObject_ToJsonOptions__T9bCB8O1ZaL5BIvSkjYqMnQ opt__09bSJo2Bi0L2pHcinEcIUyw_2);
 N_LIB_PRIVATE N_NIMCALL(tyObject_JsonNodeObj__df9bshXB7C9cTiWPIOtX3j1Q*, newJArray__pureZjson_422)(void);
 N_LIB_PRIVATE N_NIMCALL(void, add__pureZjson_539)(tyObject_JsonNodeObj__df9bshXB7C9cTiWPIOtX3j1Q* father__pj5vVH8DB2tjdFmZfAHWlA, tyObject_JsonNodeObj__df9bshXB7C9cTiWPIOtX3j1Q* child__7NqSJrsnM7ODaFH6YwTTcw);
-N_LIB_PRIVATE N_NIMCALL(tyObject_JsonNodeObj__df9bshXB7C9cTiWPIOtX3j1Q*, toJson__extccomp_1940)(tyTuple__UV3llMMYFckfui8YMBuUZA a__9cen7Un9b9b1PG3r9cT4jexiGA_3, tyObject_ToJsonOptions__T9bCB8O1ZaL5BIvSkjYqMnQ opt__09bSJo2Bi0L2pHcinEcIUyw_3);
-N_LIB_PRIVATE N_NIMCALL(tyObject_JsonNodeObj__df9bshXB7C9cTiWPIOtX3j1Q*, toJson__extccomp_1961)(tySequence__sM4lkSb7zS6F7OVMvW9cffQ a__9cen7Un9b9b1PG3r9cT4jexiGA_4, tyObject_ToJsonOptions__T9bCB8O1ZaL5BIvSkjYqMnQ opt__09bSJo2Bi0L2pHcinEcIUyw_4);
-N_LIB_PRIVATE N_NIMCALL(tyObject_JsonNodeObj__df9bshXB7C9cTiWPIOtX3j1Q*, toJson__extccomp_1989)(NIM_BOOL a__9cen7Un9b9b1PG3r9cT4jexiGA_5, tyObject_ToJsonOptions__T9bCB8O1ZaL5BIvSkjYqMnQ opt__09bSJo2Bi0L2pHcinEcIUyw_5);
+N_LIB_PRIVATE N_NIMCALL(tyObject_JsonNodeObj__df9bshXB7C9cTiWPIOtX3j1Q*, toJson__extccomp_1943)(tyTuple__UV3llMMYFckfui8YMBuUZA a__9cen7Un9b9b1PG3r9cT4jexiGA_3, tyObject_ToJsonOptions__T9bCB8O1ZaL5BIvSkjYqMnQ opt__09bSJo2Bi0L2pHcinEcIUyw_3);
+N_LIB_PRIVATE N_NIMCALL(tyObject_JsonNodeObj__df9bshXB7C9cTiWPIOtX3j1Q*, toJson__extccomp_1964)(tySequence__sM4lkSb7zS6F7OVMvW9cffQ a__9cen7Un9b9b1PG3r9cT4jexiGA_4, tyObject_ToJsonOptions__T9bCB8O1ZaL5BIvSkjYqMnQ opt__09bSJo2Bi0L2pHcinEcIUyw_4);
+N_LIB_PRIVATE N_NIMCALL(tyObject_JsonNodeObj__df9bshXB7C9cTiWPIOtX3j1Q*, toJson__extccomp_1992)(NIM_BOOL a__9cen7Un9b9b1PG3r9cT4jexiGA_5, tyObject_ToJsonOptions__T9bCB8O1ZaL5BIvSkjYqMnQ opt__09bSJo2Bi0L2pHcinEcIUyw_5);
 N_LIB_PRIVATE N_NIMCALL(tyObject_JsonNodeObj__df9bshXB7C9cTiWPIOtX3j1Q*, percent___pureZjson_2156)(NIM_BOOL b__9aJ8opSYzC7YRqUFiS9aIJQQ);
 extern TNimTypeV2 NTIv2__ke0esfQKJkTSUu9bpZ7VlFw_;
 static const struct {
@@ -593,7 +593,7 @@ NIM_BOOL* nimErr_;
 	}BeforeRet_: ;
 	return result;
 }
-N_LIB_PRIVATE N_NIMCALL(void, fromJson__extccomp_2258)(tyTuple__UV3llMMYFckfui8YMBuUZA* a__YgVnlAQCl5hJRf3h9aGL3zw_3, tyObject_JsonNodeObj__df9bshXB7C9cTiWPIOtX3j1Q* b__OMI3BJ5mttOjg1u9aslW9bQQ_3, tyObject_Joptions__LkVLf5IMKBOgl3HJApAzgQ opt__9adGrRSNkSn9cSnT7sTC6dFg_3) {
+N_LIB_PRIVATE N_NIMCALL(void, fromJson__extccomp_2261)(tyTuple__UV3llMMYFckfui8YMBuUZA* a__YgVnlAQCl5hJRf3h9aGL3zw_3, tyObject_JsonNodeObj__df9bshXB7C9cTiWPIOtX3j1Q* b__OMI3BJ5mttOjg1u9aslW9bQQ_3, tyObject_Joptions__LkVLf5IMKBOgl3HJApAzgQ opt__9adGrRSNkSn9cSnT7sTC6dFg_3) {
 	tyObject_JsonNodeObj__df9bshXB7C9cTiWPIOtX3j1Q* colontmpD_;
 	tyObject_JsonNodeObj__df9bshXB7C9cTiWPIOtX3j1Q* colontmpD__2;
 	NI tupleSize;
@@ -703,7 +703,7 @@ appendString((&fmtRes), TM__D9aPSI6l3gZsoFvdx9c3FKBg_43);
 	if (NIM_UNLIKELY(*nimErr_)) goto BeforeRet_;
 	}BeforeRet_: ;
 }
-N_LIB_PRIVATE N_NIMCALL(void, fromJson__extccomp_2198)(tySequence__4eQHGndY6XBYpFOH09apV8Q* a__YgVnlAQCl5hJRf3h9aGL3zw_2, tyObject_JsonNodeObj__df9bshXB7C9cTiWPIOtX3j1Q* b__OMI3BJ5mttOjg1u9aslW9bQQ_2, tyObject_Joptions__LkVLf5IMKBOgl3HJApAzgQ opt__9adGrRSNkSn9cSnT7sTC6dFg_2) {
+N_LIB_PRIVATE N_NIMCALL(void, fromJson__extccomp_2201)(tySequence__4eQHGndY6XBYpFOH09apV8Q* a__YgVnlAQCl5hJRf3h9aGL3zw_2, tyObject_JsonNodeObj__df9bshXB7C9cTiWPIOtX3j1Q* b__OMI3BJ5mttOjg1u9aslW9bQQ_2, tyObject_Joptions__LkVLf5IMKBOgl3HJApAzgQ opt__9adGrRSNkSn9cSnT7sTC6dFg_2) {
 	NI T10_;
 NIM_BOOL oldNimErrFin12_;
 NIM_BOOL* nimErr_;
@@ -736,7 +736,7 @@ NIM_BOOL* nimErr_;
 	T10_ = (NI)0;
 	T10_ = len__pureZjson_3367(b__OMI3BJ5mttOjg1u9aslW9bQQ_2);
 	if (NIM_UNLIKELY(*nimErr_)) goto BeforeRet_;
-	setLen__extccomp_1694((&(*a__YgVnlAQCl5hJRf3h9aGL3zw_2)), ((NI) (T10_)));
+	setLen__extccomp_1697((&(*a__YgVnlAQCl5hJRf3h9aGL3zw_2)), ((NI) (T10_)));
 	{
 		tyObject_JsonNodeObj__df9bshXB7C9cTiWPIOtX3j1Q* val;
 		tySequence__oLpBKXzW3hF9aCVMo5EymfQ colontmp_;
@@ -761,7 +761,7 @@ NIM_BOOL* nimErr_;
 				i = i_2;
 				eqcopy___pureZjson_274(&val, colontmp_.p->data[i_2]);
 				if (NIM_UNLIKELY(*nimErr_)) goto LA12_;
-				fromJson__extccomp_2258((&(*a__YgVnlAQCl5hJRf3h9aGL3zw_2).p->data[i]), val, opt__9adGrRSNkSn9cSnT7sTC6dFg_2);
+				fromJson__extccomp_2261((&(*a__YgVnlAQCl5hJRf3h9aGL3zw_2).p->data[i]), val, opt__9adGrRSNkSn9cSnT7sTC6dFg_2);
 				if (NIM_UNLIKELY(*nimErr_)) goto LA12_;
 				i_2 += ((NI)1);
 			} LA16: ;
@@ -781,7 +781,7 @@ NIM_BOOL* nimErr_;
 	}
 	}BeforeRet_: ;
 }
-N_LIB_PRIVATE N_NIMCALL(void, fromJson__extccomp_2351)(tySequence__sM4lkSb7zS6F7OVMvW9cffQ* a__YgVnlAQCl5hJRf3h9aGL3zw_4, tyObject_JsonNodeObj__df9bshXB7C9cTiWPIOtX3j1Q* b__OMI3BJ5mttOjg1u9aslW9bQQ_4, tyObject_Joptions__LkVLf5IMKBOgl3HJApAzgQ opt__9adGrRSNkSn9cSnT7sTC6dFg_4) {
+N_LIB_PRIVATE N_NIMCALL(void, fromJson__extccomp_2354)(tySequence__sM4lkSb7zS6F7OVMvW9cffQ* a__YgVnlAQCl5hJRf3h9aGL3zw_4, tyObject_JsonNodeObj__df9bshXB7C9cTiWPIOtX3j1Q* b__OMI3BJ5mttOjg1u9aslW9bQQ_4, tyObject_Joptions__LkVLf5IMKBOgl3HJApAzgQ opt__9adGrRSNkSn9cSnT7sTC6dFg_4) {
 	NI T10_;
 NIM_BOOL oldNimErrFin12_;
 NIM_BOOL* nimErr_;
@@ -859,7 +859,7 @@ NIM_BOOL* nimErr_;
 	}
 	}BeforeRet_: ;
 }
-N_LIB_PRIVATE N_NIMCALL(void, fromJson__extccomp_2483)(NIM_BOOL* a__YgVnlAQCl5hJRf3h9aGL3zw_5, tyObject_JsonNodeObj__df9bshXB7C9cTiWPIOtX3j1Q* b__OMI3BJ5mttOjg1u9aslW9bQQ_5, tyObject_Joptions__LkVLf5IMKBOgl3HJApAzgQ opt__9adGrRSNkSn9cSnT7sTC6dFg_5) {
+N_LIB_PRIVATE N_NIMCALL(void, fromJson__extccomp_2486)(NIM_BOOL* a__YgVnlAQCl5hJRf3h9aGL3zw_5, tyObject_JsonNodeObj__df9bshXB7C9cTiWPIOtX3j1Q* b__OMI3BJ5mttOjg1u9aslW9bQQ_5, tyObject_Joptions__LkVLf5IMKBOgl3HJApAzgQ opt__9adGrRSNkSn9cSnT7sTC6dFg_5) {
 	NIM_BOOL T10_;
 NIM_BOOL* nimErr_;
 {nimErr_ = nimErrorFlag();
@@ -889,12 +889,12 @@ NIM_BOOL* nimErr_;
 	}
 	LA4_: ;
 	T10_ = (NIM_BOOL)0;
-	T10_ = to__extccomp_2494(b__OMI3BJ5mttOjg1u9aslW9bQQ_5);
+	T10_ = to__extccomp_2497(b__OMI3BJ5mttOjg1u9aslW9bQQ_5);
 	if (NIM_UNLIKELY(*nimErr_)) goto BeforeRet_;
 	(*a__YgVnlAQCl5hJRf3h9aGL3zw_5) = T10_;
 	}BeforeRet_: ;
 }
-N_LIB_PRIVATE N_NIMCALL(void, fromJson__extccomp_2075)(tyObject_BuildCache__bsEp9cTzVeuA9a0MLpRaR1yg* a__YgVnlAQCl5hJRf3h9aGL3zw, tyObject_JsonNodeObj__df9bshXB7C9cTiWPIOtX3j1Q* b__OMI3BJ5mttOjg1u9aslW9bQQ, tyObject_Joptions__LkVLf5IMKBOgl3HJApAzgQ opt__9adGrRSNkSn9cSnT7sTC6dFg) {
+N_LIB_PRIVATE N_NIMCALL(void, fromJson__extccomp_2078)(tyObject_BuildCache__bsEp9cTzVeuA9a0MLpRaR1yg* a__YgVnlAQCl5hJRf3h9aGL3zw, tyObject_JsonNodeObj__df9bshXB7C9cTiWPIOtX3j1Q* b__OMI3BJ5mttOjg1u9aslW9bQQ, tyObject_Joptions__LkVLf5IMKBOgl3HJApAzgQ opt__9adGrRSNkSn9cSnT7sTC6dFg) {
 	NIM_BOOL colontmpD_;
 	NIM_BOOL colontmpD__2;
 	NIM_BOOL colontmpD__3;
@@ -1010,7 +1010,7 @@ NIM_BOOL* nimErr_;
 			colontmpD__8 = pretty__pureZjson_4843(b__OMI3BJ5mttOjg1u9aslW9bQQ, ((NI)2));
 			if (NIM_UNLIKELY(*nimErr_)) goto LA33_;
 			T34_[2] = colontmpD__8;
-			colontmpD__9 = percent___extccomp_2153(T34_, 3);
+			colontmpD__9 = percent___extccomp_2156(T34_, 3);
 			if (NIM_UNLIKELY(*nimErr_)) goto LA33_;
 			raiseJsonException__stdZjsonutils_179(TM__D9aPSI6l3gZsoFvdx9c3FKBg_17, colontmpD__9);
 			if (NIM_UNLIKELY(*nimErr_)) goto LA33_;
@@ -1071,7 +1071,7 @@ NIM_BOOL* nimErr_;
 			colontmpD__11 = pretty__pureZjson_4843(b__OMI3BJ5mttOjg1u9aslW9bQQ, ((NI)2));
 			if (NIM_UNLIKELY(*nimErr_)) goto LA53_;
 			T54_[2] = colontmpD__11;
-			colontmpD__12 = percent___extccomp_2153(T54_, 3);
+			colontmpD__12 = percent___extccomp_2156(T54_, 3);
 			if (NIM_UNLIKELY(*nimErr_)) goto LA53_;
 			raiseJsonException__stdZjsonutils_179(TM__D9aPSI6l3gZsoFvdx9c3FKBg_23, colontmpD__12);
 			if (NIM_UNLIKELY(*nimErr_)) goto LA53_;
@@ -1099,7 +1099,7 @@ NIM_BOOL* nimErr_;
 		numMatchedX60gensym14_ += ((NI)1);
 		colontmpD__13 = X5BX5D___pureZjson_3421(b__OMI3BJ5mttOjg1u9aslW9bQQ, TM__D9aPSI6l3gZsoFvdx9c3FKBg_45);
 		if (NIM_UNLIKELY(*nimErr_)) goto LA62_;
-		fromJson__extccomp_2198((&(*a__YgVnlAQCl5hJRf3h9aGL3zw).compile), colontmpD__13, opt__9adGrRSNkSn9cSnT7sTC6dFg);
+		fromJson__extccomp_2201((&(*a__YgVnlAQCl5hJRf3h9aGL3zw).compile), colontmpD__13, opt__9adGrRSNkSn9cSnT7sTC6dFg);
 		if (NIM_UNLIKELY(*nimErr_)) goto LA62_;
 		{
 			LA62_:;
@@ -1132,7 +1132,7 @@ NIM_BOOL* nimErr_;
 			colontmpD__14 = pretty__pureZjson_4843(b__OMI3BJ5mttOjg1u9aslW9bQQ, ((NI)2));
 			if (NIM_UNLIKELY(*nimErr_)) goto LA73_;
 			T74_[2] = colontmpD__14;
-			colontmpD__15 = percent___extccomp_2153(T74_, 3);
+			colontmpD__15 = percent___extccomp_2156(T74_, 3);
 			if (NIM_UNLIKELY(*nimErr_)) goto LA73_;
 			raiseJsonException__stdZjsonutils_179(TM__D9aPSI6l3gZsoFvdx9c3FKBg_46, colontmpD__15);
 			if (NIM_UNLIKELY(*nimErr_)) goto LA73_;
@@ -1160,7 +1160,7 @@ NIM_BOOL* nimErr_;
 		numMatchedX60gensym14_ += ((NI)1);
 		colontmpD__16 = X5BX5D___pureZjson_3421(b__OMI3BJ5mttOjg1u9aslW9bQQ, TM__D9aPSI6l3gZsoFvdx9c3FKBg_54);
 		if (NIM_UNLIKELY(*nimErr_)) goto LA82_;
-		fromJson__extccomp_2351((&(*a__YgVnlAQCl5hJRf3h9aGL3zw).link), colontmpD__16, opt__9adGrRSNkSn9cSnT7sTC6dFg);
+		fromJson__extccomp_2354((&(*a__YgVnlAQCl5hJRf3h9aGL3zw).link), colontmpD__16, opt__9adGrRSNkSn9cSnT7sTC6dFg);
 		if (NIM_UNLIKELY(*nimErr_)) goto LA82_;
 		{
 			LA82_:;
@@ -1193,7 +1193,7 @@ NIM_BOOL* nimErr_;
 			colontmpD__17 = pretty__pureZjson_4843(b__OMI3BJ5mttOjg1u9aslW9bQQ, ((NI)2));
 			if (NIM_UNLIKELY(*nimErr_)) goto LA93_;
 			T94_[2] = colontmpD__17;
-			colontmpD__18 = percent___extccomp_2153(T94_, 3);
+			colontmpD__18 = percent___extccomp_2156(T94_, 3);
 			if (NIM_UNLIKELY(*nimErr_)) goto LA93_;
 			raiseJsonException__stdZjsonutils_179(TM__D9aPSI6l3gZsoFvdx9c3FKBg_55, colontmpD__18);
 			if (NIM_UNLIKELY(*nimErr_)) goto LA93_;
@@ -1254,7 +1254,7 @@ NIM_BOOL* nimErr_;
 			colontmpD__20 = pretty__pureZjson_4843(b__OMI3BJ5mttOjg1u9aslW9bQQ, ((NI)2));
 			if (NIM_UNLIKELY(*nimErr_)) goto LA113_;
 			T114_[2] = colontmpD__20;
-			colontmpD__21 = percent___extccomp_2153(T114_, 3);
+			colontmpD__21 = percent___extccomp_2156(T114_, 3);
 			if (NIM_UNLIKELY(*nimErr_)) goto LA113_;
 			raiseJsonException__stdZjsonutils_179(TM__D9aPSI6l3gZsoFvdx9c3FKBg_61, colontmpD__21);
 			if (NIM_UNLIKELY(*nimErr_)) goto LA113_;
@@ -1282,7 +1282,7 @@ NIM_BOOL* nimErr_;
 		numMatchedX60gensym14_ += ((NI)1);
 		colontmpD__22 = X5BX5D___pureZjson_3421(b__OMI3BJ5mttOjg1u9aslW9bQQ, TM__D9aPSI6l3gZsoFvdx9c3FKBg_66);
 		if (NIM_UNLIKELY(*nimErr_)) goto LA122_;
-		fromJson__extccomp_2351((&(*a__YgVnlAQCl5hJRf3h9aGL3zw).extraCmds), colontmpD__22, opt__9adGrRSNkSn9cSnT7sTC6dFg);
+		fromJson__extccomp_2354((&(*a__YgVnlAQCl5hJRf3h9aGL3zw).extraCmds), colontmpD__22, opt__9adGrRSNkSn9cSnT7sTC6dFg);
 		if (NIM_UNLIKELY(*nimErr_)) goto LA122_;
 		{
 			LA122_:;
@@ -1315,7 +1315,7 @@ NIM_BOOL* nimErr_;
 			colontmpD__23 = pretty__pureZjson_4843(b__OMI3BJ5mttOjg1u9aslW9bQQ, ((NI)2));
 			if (NIM_UNLIKELY(*nimErr_)) goto LA133_;
 			T134_[2] = colontmpD__23;
-			colontmpD__24 = percent___extccomp_2153(T134_, 3);
+			colontmpD__24 = percent___extccomp_2156(T134_, 3);
 			if (NIM_UNLIKELY(*nimErr_)) goto LA133_;
 			raiseJsonException__stdZjsonutils_179(TM__D9aPSI6l3gZsoFvdx9c3FKBg_67, colontmpD__24);
 			if (NIM_UNLIKELY(*nimErr_)) goto LA133_;
@@ -1343,7 +1343,7 @@ NIM_BOOL* nimErr_;
 		numMatchedX60gensym14_ += ((NI)1);
 		colontmpD__25 = X5BX5D___pureZjson_3421(b__OMI3BJ5mttOjg1u9aslW9bQQ, TM__D9aPSI6l3gZsoFvdx9c3FKBg_72);
 		if (NIM_UNLIKELY(*nimErr_)) goto LA142_;
-		fromJson__extccomp_2351((&(*a__YgVnlAQCl5hJRf3h9aGL3zw).configFiles), colontmpD__25, opt__9adGrRSNkSn9cSnT7sTC6dFg);
+		fromJson__extccomp_2354((&(*a__YgVnlAQCl5hJRf3h9aGL3zw).configFiles), colontmpD__25, opt__9adGrRSNkSn9cSnT7sTC6dFg);
 		if (NIM_UNLIKELY(*nimErr_)) goto LA142_;
 		{
 			LA142_:;
@@ -1376,7 +1376,7 @@ NIM_BOOL* nimErr_;
 			colontmpD__26 = pretty__pureZjson_4843(b__OMI3BJ5mttOjg1u9aslW9bQQ, ((NI)2));
 			if (NIM_UNLIKELY(*nimErr_)) goto LA153_;
 			T154_[2] = colontmpD__26;
-			colontmpD__27 = percent___extccomp_2153(T154_, 3);
+			colontmpD__27 = percent___extccomp_2156(T154_, 3);
 			if (NIM_UNLIKELY(*nimErr_)) goto LA153_;
 			raiseJsonException__stdZjsonutils_179(TM__D9aPSI6l3gZsoFvdx9c3FKBg_73, colontmpD__27);
 			if (NIM_UNLIKELY(*nimErr_)) goto LA153_;
@@ -1404,7 +1404,7 @@ NIM_BOOL* nimErr_;
 		numMatchedX60gensym14_ += ((NI)1);
 		colontmpD__28 = X5BX5D___pureZjson_3421(b__OMI3BJ5mttOjg1u9aslW9bQQ, TM__D9aPSI6l3gZsoFvdx9c3FKBg_81);
 		if (NIM_UNLIKELY(*nimErr_)) goto LA162_;
-		fromJson__extccomp_2483((&(*a__YgVnlAQCl5hJRf3h9aGL3zw).stdinInput), colontmpD__28, opt__9adGrRSNkSn9cSnT7sTC6dFg);
+		fromJson__extccomp_2486((&(*a__YgVnlAQCl5hJRf3h9aGL3zw).stdinInput), colontmpD__28, opt__9adGrRSNkSn9cSnT7sTC6dFg);
 		if (NIM_UNLIKELY(*nimErr_)) goto LA162_;
 		{
 			LA162_:;
@@ -1437,7 +1437,7 @@ NIM_BOOL* nimErr_;
 			colontmpD__29 = pretty__pureZjson_4843(b__OMI3BJ5mttOjg1u9aslW9bQQ, ((NI)2));
 			if (NIM_UNLIKELY(*nimErr_)) goto LA173_;
 			T174_[2] = colontmpD__29;
-			colontmpD__30 = percent___extccomp_2153(T174_, 3);
+			colontmpD__30 = percent___extccomp_2156(T174_, 3);
 			if (NIM_UNLIKELY(*nimErr_)) goto LA173_;
 			raiseJsonException__stdZjsonutils_179(TM__D9aPSI6l3gZsoFvdx9c3FKBg_82, colontmpD__30);
 			if (NIM_UNLIKELY(*nimErr_)) goto LA173_;
@@ -1465,7 +1465,7 @@ NIM_BOOL* nimErr_;
 		numMatchedX60gensym14_ += ((NI)1);
 		colontmpD__31 = X5BX5D___pureZjson_3421(b__OMI3BJ5mttOjg1u9aslW9bQQ, TM__D9aPSI6l3gZsoFvdx9c3FKBg_87);
 		if (NIM_UNLIKELY(*nimErr_)) goto LA182_;
-		fromJson__extccomp_2483((&(*a__YgVnlAQCl5hJRf3h9aGL3zw).projectIsCmd), colontmpD__31, opt__9adGrRSNkSn9cSnT7sTC6dFg);
+		fromJson__extccomp_2486((&(*a__YgVnlAQCl5hJRf3h9aGL3zw).projectIsCmd), colontmpD__31, opt__9adGrRSNkSn9cSnT7sTC6dFg);
 		if (NIM_UNLIKELY(*nimErr_)) goto LA182_;
 		{
 			LA182_:;
@@ -1498,7 +1498,7 @@ NIM_BOOL* nimErr_;
 			colontmpD__32 = pretty__pureZjson_4843(b__OMI3BJ5mttOjg1u9aslW9bQQ, ((NI)2));
 			if (NIM_UNLIKELY(*nimErr_)) goto LA193_;
 			T194_[2] = colontmpD__32;
-			colontmpD__33 = percent___extccomp_2153(T194_, 3);
+			colontmpD__33 = percent___extccomp_2156(T194_, 3);
 			if (NIM_UNLIKELY(*nimErr_)) goto LA193_;
 			raiseJsonException__stdZjsonutils_179(TM__D9aPSI6l3gZsoFvdx9c3FKBg_88, colontmpD__33);
 			if (NIM_UNLIKELY(*nimErr_)) goto LA193_;
@@ -1559,7 +1559,7 @@ NIM_BOOL* nimErr_;
 			colontmpD__35 = pretty__pureZjson_4843(b__OMI3BJ5mttOjg1u9aslW9bQQ, ((NI)2));
 			if (NIM_UNLIKELY(*nimErr_)) goto LA213_;
 			T214_[2] = colontmpD__35;
-			colontmpD__36 = percent___extccomp_2153(T214_, 3);
+			colontmpD__36 = percent___extccomp_2156(T214_, 3);
 			if (NIM_UNLIKELY(*nimErr_)) goto LA213_;
 			raiseJsonException__stdZjsonutils_179(TM__D9aPSI6l3gZsoFvdx9c3FKBg_94, colontmpD__36);
 			if (NIM_UNLIKELY(*nimErr_)) goto LA213_;
@@ -1620,7 +1620,7 @@ NIM_BOOL* nimErr_;
 			colontmpD__38 = pretty__pureZjson_4843(b__OMI3BJ5mttOjg1u9aslW9bQQ, ((NI)2));
 			if (NIM_UNLIKELY(*nimErr_)) goto LA233_;
 			T234_[2] = colontmpD__38;
-			colontmpD__39 = percent___extccomp_2153(T234_, 3);
+			colontmpD__39 = percent___extccomp_2156(T234_, 3);
 			if (NIM_UNLIKELY(*nimErr_)) goto LA233_;
 			raiseJsonException__stdZjsonutils_179(TM__D9aPSI6l3gZsoFvdx9c3FKBg_100, colontmpD__39);
 			if (NIM_UNLIKELY(*nimErr_)) goto LA233_;
@@ -1681,7 +1681,7 @@ NIM_BOOL* nimErr_;
 			colontmpD__41 = pretty__pureZjson_4843(b__OMI3BJ5mttOjg1u9aslW9bQQ, ((NI)2));
 			if (NIM_UNLIKELY(*nimErr_)) goto LA253_;
 			T254_[2] = colontmpD__41;
-			colontmpD__42 = percent___extccomp_2153(T254_, 3);
+			colontmpD__42 = percent___extccomp_2156(T254_, 3);
 			if (NIM_UNLIKELY(*nimErr_)) goto LA253_;
 			raiseJsonException__stdZjsonutils_179(TM__D9aPSI6l3gZsoFvdx9c3FKBg_106, colontmpD__42);
 			if (NIM_UNLIKELY(*nimErr_)) goto LA253_;
@@ -1709,7 +1709,7 @@ NIM_BOOL* nimErr_;
 		numMatchedX60gensym14_ += ((NI)1);
 		colontmpD__43 = X5BX5D___pureZjson_3421(b__OMI3BJ5mttOjg1u9aslW9bQQ, TM__D9aPSI6l3gZsoFvdx9c3FKBg_111);
 		if (NIM_UNLIKELY(*nimErr_)) goto LA262_;
-		fromJson__extccomp_2198((&(*a__YgVnlAQCl5hJRf3h9aGL3zw).depfiles), colontmpD__43, opt__9adGrRSNkSn9cSnT7sTC6dFg);
+		fromJson__extccomp_2201((&(*a__YgVnlAQCl5hJRf3h9aGL3zw).depfiles), colontmpD__43, opt__9adGrRSNkSn9cSnT7sTC6dFg);
 		if (NIM_UNLIKELY(*nimErr_)) goto LA262_;
 		{
 			LA262_:;
@@ -1742,7 +1742,7 @@ NIM_BOOL* nimErr_;
 			colontmpD__44 = pretty__pureZjson_4843(b__OMI3BJ5mttOjg1u9aslW9bQQ, ((NI)2));
 			if (NIM_UNLIKELY(*nimErr_)) goto LA273_;
 			T274_[2] = colontmpD__44;
-			colontmpD__45 = percent___extccomp_2153(T274_, 3);
+			colontmpD__45 = percent___extccomp_2156(T274_, 3);
 			if (NIM_UNLIKELY(*nimErr_)) goto LA273_;
 			raiseJsonException__stdZjsonutils_179(TM__D9aPSI6l3gZsoFvdx9c3FKBg_112, colontmpD__45);
 			if (NIM_UNLIKELY(*nimErr_)) goto LA273_;
@@ -1803,7 +1803,7 @@ NIM_BOOL* nimErr_;
 			colontmpD__47 = pretty__pureZjson_4843(b__OMI3BJ5mttOjg1u9aslW9bQQ, ((NI)2));
 			if (NIM_UNLIKELY(*nimErr_)) goto LA293_;
 			T294_[2] = colontmpD__47;
-			colontmpD__48 = percent___extccomp_2153(T294_, 3);
+			colontmpD__48 = percent___extccomp_2156(T294_, 3);
 			if (NIM_UNLIKELY(*nimErr_)) goto LA293_;
 			raiseJsonException__stdZjsonutils_179(TM__D9aPSI6l3gZsoFvdx9c3FKBg_118, colontmpD__48);
 			if (NIM_UNLIKELY(*nimErr_)) goto LA293_;
@@ -1890,7 +1890,7 @@ NIM_BOOL* nimErr_;
 		colontmpD__51 = pretty__pureZjson_4843(b__OMI3BJ5mttOjg1u9aslW9bQQ, ((NI)2));
 		if (NIM_UNLIKELY(*nimErr_)) goto LA318_;
 		T319_[3] = colontmpD__51;
-		colontmpD__52 = percent___extccomp_2671(T319_, 4);
+		colontmpD__52 = percent___extccomp_2674(T319_, 4);
 		if (NIM_UNLIKELY(*nimErr_)) goto LA318_;
 		raiseJsonException__stdZjsonutils_179(TM__D9aPSI6l3gZsoFvdx9c3FKBg_122, colontmpD__52);
 		if (NIM_UNLIKELY(*nimErr_)) goto LA318_;
@@ -1930,7 +1930,7 @@ NIM_BOOL* nimErr_;
 	}BeforeRet_: ;
 	return result;
 }
-N_LIB_PRIVATE N_NIMCALL(tyObject_JsonNodeObj__df9bshXB7C9cTiWPIOtX3j1Q*, toJson__extccomp_1940)(tyTuple__UV3llMMYFckfui8YMBuUZA a__9cen7Un9b9b1PG3r9cT4jexiGA_3, tyObject_ToJsonOptions__T9bCB8O1ZaL5BIvSkjYqMnQ opt__09bSJo2Bi0L2pHcinEcIUyw_3) {
+N_LIB_PRIVATE N_NIMCALL(tyObject_JsonNodeObj__df9bshXB7C9cTiWPIOtX3j1Q*, toJson__extccomp_1943)(tyTuple__UV3llMMYFckfui8YMBuUZA a__9cen7Un9b9b1PG3r9cT4jexiGA_3, tyObject_ToJsonOptions__T9bCB8O1ZaL5BIvSkjYqMnQ opt__09bSJo2Bi0L2pHcinEcIUyw_3) {
 	tyObject_JsonNodeObj__df9bshXB7C9cTiWPIOtX3j1Q* result;
 	tyObject_JsonNodeObj__df9bshXB7C9cTiWPIOtX3j1Q* colontmpD_;
 	tyObject_JsonNodeObj__df9bshXB7C9cTiWPIOtX3j1Q* colontmpD__2;
@@ -1956,7 +1956,7 @@ NIM_BOOL* nimErr_;
 	}BeforeRet_: ;
 	return result;
 }
-N_LIB_PRIVATE N_NIMCALL(tyObject_JsonNodeObj__df9bshXB7C9cTiWPIOtX3j1Q*, toJson__extccomp_1912)(tySequence__4eQHGndY6XBYpFOH09apV8Q a__9cen7Un9b9b1PG3r9cT4jexiGA_2, tyObject_ToJsonOptions__T9bCB8O1ZaL5BIvSkjYqMnQ opt__09bSJo2Bi0L2pHcinEcIUyw_2) {
+N_LIB_PRIVATE N_NIMCALL(tyObject_JsonNodeObj__df9bshXB7C9cTiWPIOtX3j1Q*, toJson__extccomp_1915)(tySequence__4eQHGndY6XBYpFOH09apV8Q a__9cen7Un9b9b1PG3r9cT4jexiGA_2, tyObject_ToJsonOptions__T9bCB8O1ZaL5BIvSkjYqMnQ opt__09bSJo2Bi0L2pHcinEcIUyw_2) {
 	tyObject_JsonNodeObj__df9bshXB7C9cTiWPIOtX3j1Q* result;
 NIM_BOOL* nimErr_;
 {nimErr_ = nimErrorFlag();
@@ -1978,7 +1978,7 @@ NIM_BOOL* nimErr_;
 				if (!(i < L)) goto LA4				;
 				colontmpD_ = NIM_NIL;
 				ai = (&a__9cen7Un9b9b1PG3r9cT4jexiGA_2.p->data[i]);
-				colontmpD_ = toJson__extccomp_1940((*ai), opt__09bSJo2Bi0L2pHcinEcIUyw_2);
+				colontmpD_ = toJson__extccomp_1943((*ai), opt__09bSJo2Bi0L2pHcinEcIUyw_2);
 				if (NIM_UNLIKELY(*nimErr_)) goto BeforeRet_;
 				add__pureZjson_539(result, colontmpD_);
 				if (NIM_UNLIKELY(*nimErr_)) goto BeforeRet_;
@@ -1991,7 +1991,7 @@ NIM_BOOL* nimErr_;
 	}BeforeRet_: ;
 	return result;
 }
-N_LIB_PRIVATE N_NIMCALL(tyObject_JsonNodeObj__df9bshXB7C9cTiWPIOtX3j1Q*, toJson__extccomp_1961)(tySequence__sM4lkSb7zS6F7OVMvW9cffQ a__9cen7Un9b9b1PG3r9cT4jexiGA_4, tyObject_ToJsonOptions__T9bCB8O1ZaL5BIvSkjYqMnQ opt__09bSJo2Bi0L2pHcinEcIUyw_4) {
+N_LIB_PRIVATE N_NIMCALL(tyObject_JsonNodeObj__df9bshXB7C9cTiWPIOtX3j1Q*, toJson__extccomp_1964)(tySequence__sM4lkSb7zS6F7OVMvW9cffQ a__9cen7Un9b9b1PG3r9cT4jexiGA_4, tyObject_ToJsonOptions__T9bCB8O1ZaL5BIvSkjYqMnQ opt__09bSJo2Bi0L2pHcinEcIUyw_4) {
 	tyObject_JsonNodeObj__df9bshXB7C9cTiWPIOtX3j1Q* result;
 NIM_BOOL* nimErr_;
 {nimErr_ = nimErrorFlag();
@@ -2026,7 +2026,7 @@ NIM_BOOL* nimErr_;
 	}BeforeRet_: ;
 	return result;
 }
-N_LIB_PRIVATE N_NIMCALL(tyObject_JsonNodeObj__df9bshXB7C9cTiWPIOtX3j1Q*, toJson__extccomp_1989)(NIM_BOOL a__9cen7Un9b9b1PG3r9cT4jexiGA_5, tyObject_ToJsonOptions__T9bCB8O1ZaL5BIvSkjYqMnQ opt__09bSJo2Bi0L2pHcinEcIUyw_5) {
+N_LIB_PRIVATE N_NIMCALL(tyObject_JsonNodeObj__df9bshXB7C9cTiWPIOtX3j1Q*, toJson__extccomp_1992)(NIM_BOOL a__9cen7Un9b9b1PG3r9cT4jexiGA_5, tyObject_ToJsonOptions__T9bCB8O1ZaL5BIvSkjYqMnQ opt__09bSJo2Bi0L2pHcinEcIUyw_5) {
 	tyObject_JsonNodeObj__df9bshXB7C9cTiWPIOtX3j1Q* result;
 NIM_BOOL* nimErr_;
 {nimErr_ = nimErrorFlag();
@@ -2036,7 +2036,7 @@ NIM_BOOL* nimErr_;
 	}BeforeRet_: ;
 	return result;
 }
-N_LIB_PRIVATE N_NIMCALL(tyObject_JsonNodeObj__df9bshXB7C9cTiWPIOtX3j1Q*, toJson__extccomp_1891)(tyObject_BuildCache__bsEp9cTzVeuA9a0MLpRaR1yg* a__9cen7Un9b9b1PG3r9cT4jexiGA, tyObject_ToJsonOptions__T9bCB8O1ZaL5BIvSkjYqMnQ opt__09bSJo2Bi0L2pHcinEcIUyw) {
+N_LIB_PRIVATE N_NIMCALL(tyObject_JsonNodeObj__df9bshXB7C9cTiWPIOtX3j1Q*, toJson__extccomp_1894)(tyObject_BuildCache__bsEp9cTzVeuA9a0MLpRaR1yg* a__9cen7Un9b9b1PG3r9cT4jexiGA, tyObject_ToJsonOptions__T9bCB8O1ZaL5BIvSkjYqMnQ opt__09bSJo2Bi0L2pHcinEcIUyw) {
 	tyObject_JsonNodeObj__df9bshXB7C9cTiWPIOtX3j1Q* result;
 	tyObject_JsonNodeObj__df9bshXB7C9cTiWPIOtX3j1Q* colontmpD_;
 	tyObject_JsonNodeObj__df9bshXB7C9cTiWPIOtX3j1Q* colontmpD__2;
@@ -2079,11 +2079,11 @@ NIM_BOOL* nimErr_;
 	if (NIM_UNLIKELY(*nimErr_)) goto BeforeRet_;
 	X5BX5Deq___pureZjson_2270(result, TM__D9aPSI6l3gZsoFvdx9c3FKBg_125, colontmpD__2);
 	if (NIM_UNLIKELY(*nimErr_)) goto BeforeRet_;
-	colontmpD__3 = toJson__extccomp_1912((*a__9cen7Un9b9b1PG3r9cT4jexiGA).compile, opt__09bSJo2Bi0L2pHcinEcIUyw);
+	colontmpD__3 = toJson__extccomp_1915((*a__9cen7Un9b9b1PG3r9cT4jexiGA).compile, opt__09bSJo2Bi0L2pHcinEcIUyw);
 	if (NIM_UNLIKELY(*nimErr_)) goto BeforeRet_;
 	X5BX5Deq___pureZjson_2270(result, TM__D9aPSI6l3gZsoFvdx9c3FKBg_126, colontmpD__3);
 	if (NIM_UNLIKELY(*nimErr_)) goto BeforeRet_;
-	colontmpD__4 = toJson__extccomp_1961((*a__9cen7Un9b9b1PG3r9cT4jexiGA).link, opt__09bSJo2Bi0L2pHcinEcIUyw);
+	colontmpD__4 = toJson__extccomp_1964((*a__9cen7Un9b9b1PG3r9cT4jexiGA).link, opt__09bSJo2Bi0L2pHcinEcIUyw);
 	if (NIM_UNLIKELY(*nimErr_)) goto BeforeRet_;
 	X5BX5Deq___pureZjson_2270(result, TM__D9aPSI6l3gZsoFvdx9c3FKBg_127, colontmpD__4);
 	if (NIM_UNLIKELY(*nimErr_)) goto BeforeRet_;
@@ -2091,19 +2091,19 @@ NIM_BOOL* nimErr_;
 	if (NIM_UNLIKELY(*nimErr_)) goto BeforeRet_;
 	X5BX5Deq___pureZjson_2270(result, TM__D9aPSI6l3gZsoFvdx9c3FKBg_128, colontmpD__5);
 	if (NIM_UNLIKELY(*nimErr_)) goto BeforeRet_;
-	colontmpD__6 = toJson__extccomp_1961((*a__9cen7Un9b9b1PG3r9cT4jexiGA).extraCmds, opt__09bSJo2Bi0L2pHcinEcIUyw);
+	colontmpD__6 = toJson__extccomp_1964((*a__9cen7Un9b9b1PG3r9cT4jexiGA).extraCmds, opt__09bSJo2Bi0L2pHcinEcIUyw);
 	if (NIM_UNLIKELY(*nimErr_)) goto BeforeRet_;
 	X5BX5Deq___pureZjson_2270(result, TM__D9aPSI6l3gZsoFvdx9c3FKBg_129, colontmpD__6);
 	if (NIM_UNLIKELY(*nimErr_)) goto BeforeRet_;
-	colontmpD__7 = toJson__extccomp_1961((*a__9cen7Un9b9b1PG3r9cT4jexiGA).configFiles, opt__09bSJo2Bi0L2pHcinEcIUyw);
+	colontmpD__7 = toJson__extccomp_1964((*a__9cen7Un9b9b1PG3r9cT4jexiGA).configFiles, opt__09bSJo2Bi0L2pHcinEcIUyw);
 	if (NIM_UNLIKELY(*nimErr_)) goto BeforeRet_;
 	X5BX5Deq___pureZjson_2270(result, TM__D9aPSI6l3gZsoFvdx9c3FKBg_130, colontmpD__7);
 	if (NIM_UNLIKELY(*nimErr_)) goto BeforeRet_;
-	colontmpD__8 = toJson__extccomp_1989((*a__9cen7Un9b9b1PG3r9cT4jexiGA).stdinInput, opt__09bSJo2Bi0L2pHcinEcIUyw);
+	colontmpD__8 = toJson__extccomp_1992((*a__9cen7Un9b9b1PG3r9cT4jexiGA).stdinInput, opt__09bSJo2Bi0L2pHcinEcIUyw);
 	if (NIM_UNLIKELY(*nimErr_)) goto BeforeRet_;
 	X5BX5Deq___pureZjson_2270(result, TM__D9aPSI6l3gZsoFvdx9c3FKBg_131, colontmpD__8);
 	if (NIM_UNLIKELY(*nimErr_)) goto BeforeRet_;
-	colontmpD__9 = toJson__extccomp_1989((*a__9cen7Un9b9b1PG3r9cT4jexiGA).projectIsCmd, opt__09bSJo2Bi0L2pHcinEcIUyw);
+	colontmpD__9 = toJson__extccomp_1992((*a__9cen7Un9b9b1PG3r9cT4jexiGA).projectIsCmd, opt__09bSJo2Bi0L2pHcinEcIUyw);
 	if (NIM_UNLIKELY(*nimErr_)) goto BeforeRet_;
 	X5BX5Deq___pureZjson_2270(result, TM__D9aPSI6l3gZsoFvdx9c3FKBg_132, colontmpD__9);
 	if (NIM_UNLIKELY(*nimErr_)) goto BeforeRet_;
@@ -2119,7 +2119,7 @@ NIM_BOOL* nimErr_;
 	if (NIM_UNLIKELY(*nimErr_)) goto BeforeRet_;
 	X5BX5Deq___pureZjson_2270(result, TM__D9aPSI6l3gZsoFvdx9c3FKBg_135, colontmpD__12);
 	if (NIM_UNLIKELY(*nimErr_)) goto BeforeRet_;
-	colontmpD__13 = toJson__extccomp_1912((*a__9cen7Un9b9b1PG3r9cT4jexiGA).depfiles, opt__09bSJo2Bi0L2pHcinEcIUyw);
+	colontmpD__13 = toJson__extccomp_1915((*a__9cen7Un9b9b1PG3r9cT4jexiGA).depfiles, opt__09bSJo2Bi0L2pHcinEcIUyw);
 	if (NIM_UNLIKELY(*nimErr_)) goto BeforeRet_;
 	X5BX5Deq___pureZjson_2270(result, TM__D9aPSI6l3gZsoFvdx9c3FKBg_136, colontmpD__13);
 	if (NIM_UNLIKELY(*nimErr_)) goto BeforeRet_;

@@ -1424,7 +1424,7 @@ static N_INLINE(void, appendString)(NimStringV2* dest__Ws6Yi19bfxrbjCy9a9brzRV7A
 N_LIB_PRIVATE N_NIMCALL(NimStringV2, dollar___ast_192)(tyEnum_TNodeKind__ySM4MdHjvuRpNcphR1xnyQ e__pMZte9bMGnydiEAE9cymf2Rg_5);
 N_LIB_PRIVATE N_NIMCALL(NimStringV2, rawNewString)(NI space__9cQ1OhOryhnk7At3WzUsjtA);
 N_LIB_PRIVATE N_NIMCALL(tyTuple__7q7q3E6Oj24ZNVJb9aonhAg, nossplitFile)(NimStringV2 path__mQs5USj7cYSjfdcRv9cqi0A);
-N_LIB_PRIVATE N_NIMCALL(NimStringV2, toProjPath__msgs_581)(tyObject_ConfigRefcolonObjectType___2BjaRtGfBjUbX51p9a4g9a9cg* conf__P5DhmbaFI3FZXuxWKUlVKA, NI32 fileIdx__9boiF0u8rHOvxtk6U4GrE0g);
+N_LIB_PRIVATE N_NIMCALL(NimStringV2, toProjPath__msgs_591)(tyObject_ConfigRefcolonObjectType___2BjaRtGfBjUbX51p9a4g9a9cg* conf__P5DhmbaFI3FZXuxWKUlVKA, NI32 fileIdx__9boiF0u8rHOvxtk6U4GrE0g);
 N_LIB_PRIVATE N_NIMCALL(NimStringV2, toNimblePath__depends_31)(NimStringV2 s__F4EfZYTB7bScUy9anG4r2pQ, NIM_BOOL isStdlib__S130YfP2lEd2Oa5aiYmEJA);
 N_LIB_PRIVATE N_NIMCALL(NI, nsuFindStr)(NimStringV2 s__j5TJWfJlhHy8cXPQGjLirw_2, NimStringV2 sub__LFSBCuRqGG8Iad7ASRfQOg_2, NI start__8J5MybUfmIsPX7tkofgRoQ_2, NI last__cLAs7KZ4MvCYchBZlIpT6Q_2);
 static N_INLINE(NimStringV2, X5BX5D___pureZstrutils_1307)(NimStringV2 s__S9c9b9bwgmn3VVemVN0NkGOrA, tyObject_HSlice__EE5dzjqoOrHT6HJhIPXAvA x__9aNqPmXJfBR0vsEiqi1wHWA);
@@ -2094,11 +2094,11 @@ appendString((&T5_), colontmpD__7);
 		eqdestroy___stdZassertions_13((&colontmpD__7));
 	}
 	LA3_: ;
-	colontmpD_ = toProjPath__msgs_581((*g__0ENgSKXNJZiPZ0wsZ11ghA).config, ((NI32) ((*(*n__53QoMAI6DgP7D1uiiRUEaw)._kind_4.sym).position)));
+	colontmpD_ = toProjPath__msgs_591((*g__0ENgSKXNJZiPZ0wsZ11ghA).config, ((NI32) ((*(*n__53QoMAI6DgP7D1uiiRUEaw)._kind_4.sym).position)));
 	if (NIM_UNLIKELY(*nimErr_)) goto BeforeRet_;
 	path = nossplitFile(colontmpD_);
 	if (NIM_UNLIKELY(*nimErr_)) goto BeforeRet_;
-	colontmpD__2 = toProjPath__msgs_581((*g__0ENgSKXNJZiPZ0wsZ11ghA).config, ((NI32) ((*(*g__0ENgSKXNJZiPZ0wsZ11ghA).module).position)));
+	colontmpD__2 = toProjPath__msgs_591((*g__0ENgSKXNJZiPZ0wsZ11ghA).config, ((NI32) ((*(*g__0ENgSKXNJZiPZ0wsZ11ghA).module).position)));
 	if (NIM_UNLIKELY(*nimErr_)) goto BeforeRet_;
 	modulePath = nossplitFile(colontmpD__2);
 	if (NIM_UNLIKELY(*nimErr_)) goto BeforeRet_;

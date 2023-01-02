@@ -269,8 +269,8 @@ N_LIB_PRIVATE N_NOCONV(void*, allocImpl__system_1735)(NI size__uYg0s4J9bHgDzPf7X
 N_LIB_PRIVATE N_NOCONV(void, dealloc)(void* p__1Ef17pd0N75MzUBHEC131Q);
 N_LIB_PRIVATE N_NIMCALL(void, eqtrace___stdZassertions_64)(tySequence__uB9b75OUPRENsBAu4AnoePA* dest__MtFFOU2wNRj2y9bA8lUbcdQ, void* env__kESFTih59bdOEL17KGJBDtg);
 N_LIB_PRIVATE N_NIMCALL(void, raiseExceptionEx)(Exception* e__9ajCQKqHfiAQicU4Xo4XCfQ, NCSTRING ename__dYYaKlNlIXrIQDE0zrUqCg, NCSTRING procname__0KbbVdUBSy9cVZFkcqkrAbA, NCSTRING filename__OtHzFRym9aG7oNwlVo9bTRVA, NI line__eII5zX9cu2R26e0hzCzdeKQ);
-N_LIB_PRIVATE N_NIMCALL(void, eqdestroy___msgs_474)(tyObject_ESuggestDone__e9cKYzSU0LE8Q9btWEBJvd9cQ* dest__Ob0twAGKyaDwumxwuXebXQ_2);
-N_LIB_PRIVATE N_NIMCALL(void, eqtrace___msgs_483)(tyObject_ESuggestDone__e9cKYzSU0LE8Q9btWEBJvd9cQ* dest__bZ09c5uBuGwk5PHN5nHW3OA_2, void* env__0iOh8CMLjxirDKvlqrKNYA_2);
+N_LIB_PRIVATE N_NIMCALL(void, eqdestroy___msgs_484)(tyObject_ESuggestDone__e9cKYzSU0LE8Q9btWEBJvd9cQ* dest__Ob0twAGKyaDwumxwuXebXQ_2);
+N_LIB_PRIVATE N_NIMCALL(void, eqtrace___msgs_493)(tyObject_ESuggestDone__e9cKYzSU0LE8Q9btWEBJvd9cQ* dest__bZ09c5uBuGwk5PHN5nHW3OA_2, void* env__0iOh8CMLjxirDKvlqrKNYA_2);
 N_LIB_PRIVATE N_NIMCALL(NI, hash__lineinfos_268)(tyTuple__47w2DboNEPf69aPgubZdd7Q x__uVTlbX9a1gXGBRA9aBVU59c1g);
 static const struct {
   NI cap; NIM_CHAR data[3+1];
@@ -1108,7 +1108,7 @@ extern NIM_BOOL nimInErrorMode__system_3978;
 static NIM_CONST NU32 TM__eKG71Gy301SWgr9a6ccuVDg_312[5] = {3701606400, 1285336064, 3000110592, 3978211584, 1111923200};
 N_LIB_PRIVATE TNimTypeV2 NTIv2__Y0JGml0RfydquAvx7nZiKw_ = {.destructor = (void*)eqdestroy___lineinfos_300, .size = sizeof(tyObject_ERecoverableError__Y0JGml0RfydquAvx7nZiKw), .align = (NI16) NIM_ALIGNOF(tyObject_ERecoverableError__Y0JGml0RfydquAvx7nZiKw), .depth = 4, .display = TM__eKG71Gy301SWgr9a6ccuVDg_312, .traceImpl = (void*)eqtrace___lineinfos_309, .flags = 0};
 static NIM_CONST NU32 TM__eKG71Gy301SWgr9a6ccuVDg_313[5] = {3701606400, 1285336064, 3000110592, 3978211584, 4070100224};
-N_LIB_PRIVATE TNimTypeV2 NTIv2__e9cKYzSU0LE8Q9btWEBJvd9cQ_ = {.destructor = (void*)eqdestroy___msgs_474, .size = sizeof(tyObject_ESuggestDone__e9cKYzSU0LE8Q9btWEBJvd9cQ), .align = (NI16) NIM_ALIGNOF(tyObject_ESuggestDone__e9cKYzSU0LE8Q9btWEBJvd9cQ), .depth = 4, .display = TM__eKG71Gy301SWgr9a6ccuVDg_313, .traceImpl = (void*)eqtrace___msgs_483, .flags = 0};
+N_LIB_PRIVATE TNimTypeV2 NTIv2__e9cKYzSU0LE8Q9btWEBJvd9cQ_ = {.destructor = (void*)eqdestroy___msgs_484, .size = sizeof(tyObject_ESuggestDone__e9cKYzSU0LE8Q9btWEBJvd9cQ), .align = (NI16) NIM_ALIGNOF(tyObject_ESuggestDone__e9cKYzSU0LE8Q9btWEBJvd9cQ), .depth = 4, .display = TM__eKG71Gy301SWgr9a6ccuVDg_313, .traceImpl = (void*)eqtrace___msgs_493, .flags = 0};
 static N_INLINE(void, nimSetMem__systemZmemory_7)(void* a__tZiCJHYy5dYyAh9cxwrrVhQ, int v__iM7JOvZxArJIvbhGyRZG6Q, NI size__ntsFNLS0mpvnjQFrZT7DCw) {
 	void* T1_;
 	T1_ = (void*)0;
@@ -1901,7 +1901,7 @@ N_LIB_PRIVATE N_NIMCALL(void, eqsink___lineinfos_1910)(tyTuple__3N9c2HK9cpi9cfEK
 	}
 (*dest__xrFaHy6v2mCC5jUqyo9blxg).Field1.len = src__pqiPmTRyqj6diDM32R4DVw.Field1.len; (*dest__xrFaHy6v2mCC5jUqyo9blxg).Field1.p = src__pqiPmTRyqj6diDM32R4DVw.Field1.p;
 }
-N_LIB_PRIVATE N_NIMCALL(void, eqdestroy___msgs_474)(tyObject_ESuggestDone__e9cKYzSU0LE8Q9btWEBJvd9cQ* dest__Ob0twAGKyaDwumxwuXebXQ_2) {
+N_LIB_PRIVATE N_NIMCALL(void, eqdestroy___msgs_484)(tyObject_ESuggestDone__e9cKYzSU0LE8Q9btWEBJvd9cQ* dest__Ob0twAGKyaDwumxwuXebXQ_2) {
 	{
 		NIM_BOOL T3_;
 		T3_ = (NIM_BOOL)0;
@@ -1921,7 +1921,7 @@ N_LIB_PRIVATE N_NIMCALL(void, eqdestroy___msgs_474)(tyObject_ESuggestDone__e9cKY
 	}
 	LA9_: ;
 }
-N_LIB_PRIVATE N_NIMCALL(void, eqtrace___msgs_483)(tyObject_ESuggestDone__e9cKYzSU0LE8Q9btWEBJvd9cQ* dest__bZ09c5uBuGwk5PHN5nHW3OA_2, void* env__0iOh8CMLjxirDKvlqrKNYA_2) {
+N_LIB_PRIVATE N_NIMCALL(void, eqtrace___msgs_493)(tyObject_ESuggestDone__e9cKYzSU0LE8Q9btWEBJvd9cQ* dest__bZ09c5uBuGwk5PHN5nHW3OA_2, void* env__0iOh8CMLjxirDKvlqrKNYA_2) {
 	nimTraceRefDyn(&(*dest__bZ09c5uBuGwk5PHN5nHW3OA_2).Sup.Sup.Sup.parent, env__0iOh8CMLjxirDKvlqrKNYA_2);
 	eqtrace___stdZassertions_64((&(*dest__bZ09c5uBuGwk5PHN5nHW3OA_2).Sup.Sup.Sup.trace), env__0iOh8CMLjxirDKvlqrKNYA_2);
 	nimTraceRefDyn(&(*dest__bZ09c5uBuGwk5PHN5nHW3OA_2).Sup.Sup.Sup.up, env__0iOh8CMLjxirDKvlqrKNYA_2);

@@ -95,7 +95,7 @@ N_LIB_PRIVATE N_NIMCALL(tyEnum_FloatClass__pPga1yW9b8J9cwNnm9b1aPRnA, classify__
 	}BeforeRet_: ;
 	return result;
 }
-N_LIB_PRIVATE N_NIMCALL(NF, round__vm_13588)(NF x__D3wQRNPUKg3tsGfsicNptA, NI places__hY6dmRRa1Thg1Ni0McpkMw) {
+N_LIB_PRIVATE N_NIMCALL(NF, round__vm_13603)(NF x__D3wQRNPUKg3tsGfsicNptA, NI places__hY6dmRRa1Thg1Ni0McpkMw) {
 	NF result;
 	result = (NF)0;
 	{

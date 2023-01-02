@@ -5509,7 +5509,7 @@ NIM_BOOL* nimErr_;
 	}BeforeRet_: ;
 	return result;
 }
-N_LIB_PRIVATE N_NIMCALL(NimStringV2, percent___extccomp_2165)(NimStringV2* args__D4mz9byaz6zlrAzl6k76dDw, NI args__D4mz9byaz6zlrAzl6k76dDwLen_0) {
+N_LIB_PRIVATE N_NIMCALL(NimStringV2, percent___extccomp_2168)(NimStringV2* args__D4mz9byaz6zlrAzl6k76dDw, NI args__D4mz9byaz6zlrAzl6k76dDwLen_0) {
 	NimStringV2 result;
 NIM_BOOL* nimErr_;
 {nimErr_ = nimErrorFlag();
@@ -5519,7 +5519,7 @@ NIM_BOOL* nimErr_;
 	}BeforeRet_: ;
 	return result;
 }
-N_LIB_PRIVATE N_NIMCALL(NimStringV2, percent___extccomp_2683)(NimStringV2* args__D4mz9byaz6zlrAzl6k76dDw_2, NI args__D4mz9byaz6zlrAzl6k76dDw_2Len_0) {
+N_LIB_PRIVATE N_NIMCALL(NimStringV2, percent___extccomp_2686)(NimStringV2* args__D4mz9byaz6zlrAzl6k76dDw_2, NI args__D4mz9byaz6zlrAzl6k76dDw_2Len_0) {
 	NimStringV2 result;
 NIM_BOOL* nimErr_;
 {nimErr_ = nimErrorFlag();
@@ -6050,7 +6050,7 @@ NIM_BOOL* nimErr_;
 	}BeforeRet_: ;
 	return result;
 }
-N_LIB_PRIVATE N_NIMCALL(NimStringV2, percent___extccomp_2843)(NimStringV2* args__D4mz9byaz6zlrAzl6k76dDw_2, NI args__D4mz9byaz6zlrAzl6k76dDw_2Len_0) {
+N_LIB_PRIVATE N_NIMCALL(NimStringV2, percent___extccomp_2846)(NimStringV2* args__D4mz9byaz6zlrAzl6k76dDw_2, NI args__D4mz9byaz6zlrAzl6k76dDw_2Len_0) {
 	NimStringV2 result;
 NIM_BOOL* nimErr_;
 {nimErr_ = nimErrorFlag();
@@ -6060,7 +6060,7 @@ NIM_BOOL* nimErr_;
 	}BeforeRet_: ;
 	return result;
 }
-N_LIB_PRIVATE N_NIMCALL(NimStringV2, percent___extccomp_2856)(NimStringV2* args__D4mz9byaz6zlrAzl6k76dDw_3, NI args__D4mz9byaz6zlrAzl6k76dDw_3Len_0) {
+N_LIB_PRIVATE N_NIMCALL(NimStringV2, percent___extccomp_2859)(NimStringV2* args__D4mz9byaz6zlrAzl6k76dDw_3, NI args__D4mz9byaz6zlrAzl6k76dDw_3Len_0) {
 	NimStringV2 result;
 NIM_BOOL* nimErr_;
 {nimErr_ = nimErrorFlag();
@@ -8128,7 +8128,7 @@ NIM_BOOL* nimErr_;
 	}BeforeRet_: ;
 	return result;
 }
-N_LIB_PRIVATE N_NIMCALL(NimStringV2, percent___extccomp_2789)(NimStringV2* args__D4mz9byaz6zlrAzl6k76dDw_4, NI args__D4mz9byaz6zlrAzl6k76dDw_4Len_0) {
+N_LIB_PRIVATE N_NIMCALL(NimStringV2, percent___extccomp_2792)(NimStringV2* args__D4mz9byaz6zlrAzl6k76dDw_4, NI args__D4mz9byaz6zlrAzl6k76dDw_4Len_0) {
 	NimStringV2 result;
 NIM_BOOL* nimErr_;
 {nimErr_ = nimErrorFlag();
@@ -8138,7 +8138,7 @@ NIM_BOOL* nimErr_;
 	}BeforeRet_: ;
 	return result;
 }
-N_LIB_PRIVATE N_NIMCALL(NimStringV2, percent___extccomp_2804)(NimStringV2* args__D4mz9byaz6zlrAzl6k76dDw_5, NI args__D4mz9byaz6zlrAzl6k76dDw_5Len_0) {
+N_LIB_PRIVATE N_NIMCALL(NimStringV2, percent___extccomp_2807)(NimStringV2* args__D4mz9byaz6zlrAzl6k76dDw_5, NI args__D4mz9byaz6zlrAzl6k76dDw_5Len_0) {
 	NimStringV2 result;
 NIM_BOOL* nimErr_;
 {nimErr_ = nimErrorFlag();
